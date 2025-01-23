@@ -1,0 +1,21 @@
+StatusCode        : 200                                                                                     
+StatusDescription : OK                                                                                      
+Content           : {                                                                                       
+                      "uuid": "d82a6213-c151-43aa-a2c3-c8de2d3f4f09"
+                    }
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Access-Control-Allow-Origin: *
+                    Access-Control-Allow-Credentials: true
+                    Content-Length: 53
+                    Content-Type: application/json
+                    Date: Thu, 23 Jan 2025 15:27:21 GMT...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Access-Control-Allow-Origin, *],
+                    [Access-Control-Allow-Credentials, true], [Content-Length, 53]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 53
