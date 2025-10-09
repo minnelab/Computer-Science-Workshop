@@ -1,3 +1,5 @@
+# Shell Part 2
+
 ## Bash scripts
 
 Add a `#!/bin/bash` at the top to specify the interpreter (bash, zsh etc.)

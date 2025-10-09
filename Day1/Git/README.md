@@ -1,4 +1,6 @@
-# Git Exercise: Contributing to a Repository
+# Git
+
+## Git Exercise: Contributing to a Repository
 
 In this exercise, you'll learn the basic Git workflow for contributing to a project. Follow these steps:
 

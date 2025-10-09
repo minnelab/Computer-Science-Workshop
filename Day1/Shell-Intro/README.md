@@ -1,3 +1,5 @@
+# Shell Part 1
+
 ## Trying out the shell
 
 ### Basic Navigation and File Operations
